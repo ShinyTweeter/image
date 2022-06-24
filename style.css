@@ -1,0 +1,22 @@
+body 
+{
+    background-color: deeppink;
+}
+
+.name_of_object
+{
+    color: blueviolet;
+    width: 50%;
+    background-color: lavenderblush;
+}
+
+button, p, label
+{
+    font-size: 20px;
+}
+
+.heading 
+{
+    font-size: 30px;
+    width: 50%;
+}
